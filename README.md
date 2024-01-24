@@ -1,0 +1,2 @@
+SpendSmart application provide a range of tools and features that make it easier for individuals to budget, track expenses, set financial goals, and improve their overall financial well-being. These apps offer convenience, security, and insights that can help users make more informed financial decisions. In addition to this user can capture their bills and pay slip with the help of camera sensor and store that image for long time access.
+![image](https://github.com/shruti704/SpendSmart/assets/157648741/7ea2ee2a-4934-47e0-be14-69f7c39a6d7f)
